@@ -5,7 +5,8 @@ Guía completa y accesible para equipos rookie de FIRST Tech Challenge (FTC). Es
 
 ## 📥 Descarga
 
-[Haz clic aquí para ver o descargar el libro en formato PDF](./FTC_desde_cero.pdf)
+[Haz clic aquí para ver o descargar el libro en PDF](./FTC%20desde%20Cero_Gu%C3%ADa%20Definitiva%20para%20Equipos%20Rookie.pdf)
+
 
 ## 📄 Licencia
 
